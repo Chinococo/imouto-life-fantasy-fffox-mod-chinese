@@ -1,0 +1,2 @@
+\f[14]\EIf the battle is not won within 10 turns, the side
+with the higher \c[1]Power Gauge\c[0] wins at that point.

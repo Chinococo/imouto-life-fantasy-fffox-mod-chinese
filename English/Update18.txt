@@ -1,0 +1,29 @@
+\>\f[14]\EVer. 1.4.2 - 2023.5.30
+　・Fixed a bug that the status screen opens at unintended time
+in the middle of the night.
+　・Fix to continue processing even if there is no thumbnail
+image in the SAVE folder.
+　・Fix to the bug that the saved area returns to the first
+page when selecting "Save/Load".
+　・Fixed a bug when maxing out the level of friends by
+transferring them over.
+　・Fixed a bug that the game stops during a hot spring event.
+　・Fixed a bug in which the hand-holding effect remained even
+after changing the position of the body.
+　・Fixed a bug in which the progress of "Super Great Adventure"
+was reset at the 100th day.
+　・Fixed a phenomenon in which the sister would blink at unintended
+times during late-night pranks.
+　・Fixed a bug in which the doctor's events were handled in
+random events.
+　・Fixed a bug in which ejaculation could occur beyond the
+limit during 69 position.
+　・Fixed a bug in which Kasumi's sensitivity event occurs repeatedly.
+　・Fixed a bug that old options were displayed when
+"I want to have H" was rejected.
+　・Fixed a bug that training can be performed after hours
+under certain conditions.
+　・The maximum value of P to be transferred to New Game+
+has been set to 30.
+　・Fixed other minor bugs and typos.
+　

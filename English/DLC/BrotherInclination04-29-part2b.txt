@@ -1,0 +1,2 @@
+\my[-22]\c[15]\f[11]\cself[8]\cself[9]
+\my[1]\cself[6]\cself[7].

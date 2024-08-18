@@ -1,0 +1,3 @@
+\f[14]\EIn addition, each character has a \c[2]fixed number
+of actions\c[0]. The ■ next to the face icon indicates the
+number of remaining moves.

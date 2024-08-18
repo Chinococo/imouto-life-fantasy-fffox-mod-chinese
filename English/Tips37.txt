@@ -1,0 +1,3 @@
+\f[14]\ESkills can be obtained in the \c[1]Status Screen\c[0].
+Click the icon to open the status screen.
+　

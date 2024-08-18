@@ -1,0 +1,2 @@
+<C>\c[18]\f[24]\EConcentrated Attack
+\c[0]\f[18]\ECrit Rate UP

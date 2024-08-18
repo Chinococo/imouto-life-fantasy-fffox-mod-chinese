@@ -1,0 +1,4 @@
+\>\f[14]\EVer1.4.3 - 2023.6.6
+　・Fixed an unintended late-night blink phenomenon.
+　・Fixed other minor bugs and typos.
+　

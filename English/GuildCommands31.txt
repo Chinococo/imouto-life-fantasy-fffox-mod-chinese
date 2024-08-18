@@ -1,0 +1,1 @@
+\E\c[2]Defeat\c[0] the requested target.

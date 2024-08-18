@@ -1,0 +1,2 @@
+\E\EIt's time to prepare for our next match.
+It's \c[2]in three days, on Thursday,\c[0] so be ready.

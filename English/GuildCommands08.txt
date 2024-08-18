@@ -1,0 +1,2 @@
+\f[14]\EYukari will list the \c[2]guild activities\c[0] that
+are available for the day.

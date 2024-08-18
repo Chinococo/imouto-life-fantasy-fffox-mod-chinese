@@ -1,0 +1,2 @@
+<C>\c[18]\f[24]\ECounter Signal
+\c[0]\f[18]\ECounter UP

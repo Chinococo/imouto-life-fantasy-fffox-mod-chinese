@@ -1,0 +1,2 @@
+\f[14]\EThe battle proceeds by selecting a character and
+an action \c[1]once\c[0] per \c[1]turn\c[0].

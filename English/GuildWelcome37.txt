@@ -1,0 +1,2 @@
+\EIf you lose in the first round,
+\c[2]there is no way to go on.\c[0]

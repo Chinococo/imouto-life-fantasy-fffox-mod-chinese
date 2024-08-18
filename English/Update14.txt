@@ -1,0 +1,13 @@
+\>\f[14]\EVer. 1.4.0 - Major Content Update - 2023.5.26
+
+■Systems
+　・Engine updated to 3.0.
+　・UI menu changed.
+　・Addition of 23 chibi CGs to accompany the UI changes.
+　・Auto-save function implemented.
+　　・Every night (when not pregnant).
+　・Save/Load screen UI improved.
+　・Add New Game+.
+　・Added a new system to carry over all pajamas owned to
+new games.
+　

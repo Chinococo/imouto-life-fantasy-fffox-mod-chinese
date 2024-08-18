@@ -1,0 +1,2 @@
+\EThe maximum limit for all stats is now 500.
+\f[12]\c[7]*Once past 400, stat increases will slow down.\c[0]

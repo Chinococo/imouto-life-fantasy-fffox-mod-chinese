@@ -1,0 +1,3 @@
+\f[14]Critical Hit rate increased by 25% when skill
+activates.
+Learned

@@ -1,0 +1,3 @@
+\f[14]\EIf you think the enemy is strong, you should learn the
+\c[1]battle skills\c[0]. Note that some skills can be
+disadvantageous on their own, on the contrary.

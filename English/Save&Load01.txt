@@ -1,0 +1,10 @@
+\f[18]Welcome to the FFFox Mod!
+\f[14]
+*DLC Content
+DLC content is locked behind having
+the DLC installed, but this mod will
+work with or without it.
+
+*Caution
+The first save is used for the game's
+auto-save and will be overwritten.

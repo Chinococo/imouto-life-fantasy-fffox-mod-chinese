@@ -1,0 +1,1 @@
+\c[2]\E\f[14]●Thirsty\c[0]\f[12] (Action Cost +1)

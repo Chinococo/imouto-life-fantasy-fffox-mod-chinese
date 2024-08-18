@@ -1,0 +1,1 @@
+\c[2]\E\f[14]●Rough Terrain\c[0]\f[12] (Can't Rest)

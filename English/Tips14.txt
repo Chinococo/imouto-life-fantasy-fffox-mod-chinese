@@ -1,0 +1,3 @@
+\f[14]\EThe central icon of the meter indicates the current
+\c[1]sleep state\c[0] of your sister and her \c[1]degree of arousal\c[0]
+in terms of the icon's \c[2]heartbeat speed\c[0].

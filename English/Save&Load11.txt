@@ -1,0 +1,2 @@
+\ENormal Mode<R>
+\mx[-23]\space[0]\f[\cself[17]]\-[1]\f[18]\cself[6]

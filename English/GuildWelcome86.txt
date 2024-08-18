@@ -1,0 +1,2 @@
+\EThe finals are \c[1]this Sunday\c[0].
+You should prepare well.

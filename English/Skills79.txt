@@ -1,0 +1,3 @@
+\f[14]Attack power increased by 50% for the first turn
+when skill activates.
+Learned

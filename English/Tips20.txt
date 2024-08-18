@@ -1,0 +1,3 @@
+\f[14]\EThe two sides will continue to take turns,
+and the first side that loses all of their \c[2]power\c[0]
+will lose the fighter.

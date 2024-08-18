@@ -1,0 +1,2 @@
+\f[14]\EThe icon in the center indicates her \c[1]sleep state\c[0],
+and her \c[1]arousal\c[0] is indicated by the \c[2]icon's heartbeat speed\c[0].

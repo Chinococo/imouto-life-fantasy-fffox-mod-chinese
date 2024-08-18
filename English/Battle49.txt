@@ -1,0 +1,2 @@
+<C>\c[18]\f[24]\EMeat Shield
+\c[0]\f[18]\EGuard UP

@@ -1,0 +1,3 @@
+\f[14]\EEach action consumes \c[2]action points (★)\c[0]
+depending on the skill used. \c[2]2 Action Points\c[0] are
+regained at the beginning of each turn.

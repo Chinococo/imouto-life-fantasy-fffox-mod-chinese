@@ -1,0 +1,3 @@
+\f[14]+5 Action Points for the first turn when the skill
+activates.
+Required Skill Pt: 60

@@ -1,0 +1,3 @@
+\f[14]When attacked and strength is reduced to 0,
+Yui's action power is fully consumed and recovery
+is triggered.

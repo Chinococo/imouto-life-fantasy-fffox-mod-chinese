@@ -1,0 +1,2 @@
+<C>\c[18]\f[24]\ERegeneration
+\c[3]\f[18]\cself[15]
