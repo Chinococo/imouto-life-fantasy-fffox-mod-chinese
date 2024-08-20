@@ -1,0 +1,2 @@
+\f[14]\EEach character also has a fixed \c[2]number of moves\c[0] they can take.
+The ■ icon is the number of moves remaining for them.

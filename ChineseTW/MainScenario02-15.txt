@@ -1,0 +1,2 @@
+\EThe exhibition match is scheduled for 3 days from now,
+on \c[1]Thursday\c[0], so everyone should prepare until then.

@@ -1,0 +1,2 @@
+\f[14]Number of combat turns increased by 5.
+Required Skill Pt: 50

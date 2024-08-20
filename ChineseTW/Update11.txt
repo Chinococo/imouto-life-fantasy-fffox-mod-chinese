@@ -1,0 +1,12 @@
+\>\f[14]\EVer. 1.2.0 - Bug fixes and adjustments - 2022.4.27
+
+Addition of 3 SD illustrations, addition of swimsuit standing
+picture, addition of standing picture of each character in normal
+clothes.
+Added the ocean as a holiday destination after clearing the story.
+
+Added a joining event for Kasumi if she has not joined after
+clearing the story.
+
+Added wet dream event for sister.
+ 

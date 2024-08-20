@@ -1,0 +1,2 @@
+\f[14]\EIf the battle does not end within 10 turns,
+the side with the larger \c[1]% of their HP Bar\c[0] wins.

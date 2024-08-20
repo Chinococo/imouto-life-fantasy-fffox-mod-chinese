@@ -1,0 +1,3 @@
+\f[14]Counterattack rate increased by 25% when skill
+activates.
+Learned

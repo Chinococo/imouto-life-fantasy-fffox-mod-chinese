@@ -1,0 +1,2 @@
+\f[14]\EThe commands \c[1]Advance\c[0] and \c[1]Carry On\c[0]
+advance the progress but reduce your action power.

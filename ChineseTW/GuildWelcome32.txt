@@ -1,0 +1,2 @@
+\EThe exhibition match is in \c[2]three day's time\c[0],
+so be prepared.

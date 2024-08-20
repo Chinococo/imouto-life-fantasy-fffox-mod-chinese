@@ -1,0 +1,2 @@
+\f[14]\EWhile \c[2]injured\c[0], you cannot train or fight.
+You will have to go to the clinic until you are healed.

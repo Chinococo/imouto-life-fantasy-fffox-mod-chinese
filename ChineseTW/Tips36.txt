@@ -1,0 +1,3 @@
+\f[14]\E<C>Tips　About Skills<L>
+By using \c[1]Skill Pts\c[0], you can learn \c[1]skills\c[0].
+　

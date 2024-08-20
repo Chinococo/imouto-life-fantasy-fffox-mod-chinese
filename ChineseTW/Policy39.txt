@@ -1,0 +1,2 @@
+\f[14]\EEvery \c[1]Friday\c[0], my sister and I hold a family meeting.
+During the meeting, we agree upon a \c[1]policy\c[0] for the next week.

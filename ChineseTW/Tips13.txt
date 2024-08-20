@@ -1,0 +1,3 @@
+\f[14]\EThe upper meter shows \c[1]BAD for discomfort\c[0],
+and \c[1]GOOD for pleasure\c[0]. When the BAD meter
+fills up, the touch portion will be ended.

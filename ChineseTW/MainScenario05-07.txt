@@ -1,0 +1,2 @@
+\f[14]\EOccasionally, quests will appear to \c[1]defeat an enemy\c[0].
+The quest has a time limit and will disappear after it expires.

@@ -1,0 +1,2 @@
+\f[14]\ECombat is \c[1]Turn Based\c[0], by selecting a character to take
+\c[1]An Action\c[0]. Victory goes to whoever empties the other's \c[2]HP Bar\c[0].

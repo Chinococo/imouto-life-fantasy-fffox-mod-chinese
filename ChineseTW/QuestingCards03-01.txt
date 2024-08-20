@@ -1,0 +1,2 @@
+\EWe found some delicious fruit!
+\c[7]+1 Rest\c[0]

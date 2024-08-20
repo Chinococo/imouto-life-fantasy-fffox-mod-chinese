@@ -1,0 +1,2 @@
+\EThis is an optional mode that increases the difficulty
+level. \c[2]Not recommended for the first time playing.

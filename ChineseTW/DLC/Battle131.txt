@@ -1,0 +1,2 @@
+\f[16]Critical hit!
+\s[0] took \cself[15] damage!

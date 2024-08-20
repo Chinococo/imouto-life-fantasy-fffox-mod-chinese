@@ -1,0 +1,2 @@
+<C>\c[18]\f[24]\ETrapped
+\c[0]\f[18]\EUnable to act

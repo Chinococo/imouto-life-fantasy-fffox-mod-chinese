@@ -1,0 +1,27 @@
+\>\f[14]\E
+■Game Part
+　・Sunset background CG correction
+　・Correction of CG of World Tree Forest Background
+　・Correction of CG of World Tree Background
+　・Correction of CG for sea background 1
+　・Correction of CG of the sea background 2
+　・Add CG of being woken up by sister
+　・Add CG when moving to the town
+　・Add CG when returning from the town
+　・Add CG when taking a walk
+　・Add CG for random events during the day (25 pics)
+　・Add random events at home (10 pics)
+　・Add story events.
+　　・Add events around the time of return from the training camp.
+　・Add new branching scenario.
+　　・If you beat Akatsuki during the first time.
+　・Add CG to Yui's physical training.
+　・Add CG to Kana's training event.
+　・Add CG to Kasumi's first appearance.
+　・Add CG to Kasumi's favorable impression event.
+　・Add CG to Kana, Yui, Kasumi, and Yukari's favorable events.
+　・Add CG before the final battle
+　・Add CG to the conversation at the hot spring event.
+　・Added a CG to the "Super Great Adventure" right after
+clearing the "Great Adventure".
+　

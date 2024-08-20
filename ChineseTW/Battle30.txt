@@ -1,0 +1,3 @@
+\f[14]\EEach skill costs a number of \c[2]Action Points (★)\c[0].
+\c[2]2 Action Points\c[0] are recovered at the start of each turn.
+ 

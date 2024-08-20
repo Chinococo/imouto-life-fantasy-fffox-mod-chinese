@@ -1,0 +1,3 @@
+\f[14]\EThe shallower the sleep state, the faster both
+the GOOD and BAD gauges rise, but conversely,
+when sleep is deep, there are no restrictions on actions.

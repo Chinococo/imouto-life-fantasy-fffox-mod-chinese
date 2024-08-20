@@ -1,0 +1,1 @@
+\c[2]\E\f[14]Monsters Defeated\c[0]\f[12] \v[542]

@@ -1,0 +1,2 @@
+\f[14]\EThe meter at the top shows \c[1]BAD for discomfort\c[0] and
+\c[1]GOOD for pleasure\c[0], and when the BAD side is filled, night play ends.

@@ -1,0 +1,1 @@
+\EWe will be having a training camp next \c[2]Monday to Friday\c[0].

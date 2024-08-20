@@ -1,0 +1,2 @@
+<C>\c[18]\f[24]\ESiege Stance
+\c[0]\f[18]\ECombat Turns +5
