@@ -1,4 +1,3 @@
-\my[-2]\f[14]We've reached the finals of the Eight Stars
-Tournament. Our opponent is the Town Branch,
-led by Akatsuki... We'll win and bring the crimson
-flag of victory back to Mequa!
+\f[16]终于进入了八会决赛。
+对方是宿命的晓率领的TOWN支部的精锐…
+把代表胜利的深红优胜旗带回去！

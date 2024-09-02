@@ -1,1 +1,1 @@
-\f[12]EXIT "Hold Right-Click"
+\f[12]退出 請長按右鍵

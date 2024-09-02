@@ -1,4 +1,3 @@
-\my[-2]\f[14]A brief moment of respite during an adventure.
-"When you're active, eat well and rest well."
-"Don't push yourself too hard,
- that's the basics of adventuring─"
+\f[16]冒险中短暂的片刻，治愈的片刻。
+「活动了就好好吃好好休息。」
+「不勉强自己消耗，这是冒险的基本─」

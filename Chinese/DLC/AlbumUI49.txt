@@ -1,4 +1,3 @@
-\my[-2]\f[14]A childhood friend from Mequa who aspires to be
-a swordswoman. She dream of being an adventurer
-and spends her days training.
-[Album]
+\f[16]同样在メクア长大的以剑士为目标的青梅竹马。
+梦想成为冒险者，每天都在锻炼。
+【相册】

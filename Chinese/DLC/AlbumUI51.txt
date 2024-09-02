@@ -1,3 +1,3 @@
-\my[-2]\f[14]On the way home, you get caught in the rain.
-Upon going to use the guild's bath...
-[Main] Random Event "Sudden Shower"
+\f[16]回家路上下雨了。
+借用公会浴室的时候…。
+【本篇】随机事件「阵雨」

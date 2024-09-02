@@ -1,4 +1,3 @@
-\my[-2]\f[14]Adventurer's Guide:
-Build a strong body.
-"Lift your butt up higher, brother!"
-"I wonder if this is training..."
+\f[16]冒险者的心得　打造强健的身体
+「欧尼酱再把屁股抬高点！」
+「这是训练吗…。」

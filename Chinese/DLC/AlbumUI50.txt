@@ -1,3 +1,3 @@
-\my[-2]\f[14]Brother joins in her training to learn a new skill.
-Alright, all that's left is to test it in battle...!
-[Main] Random Event "Training"
+\f[16]为了学会新技能和欧尼酱一起锻炼。
+好，之后就是在实战里试试…！
+【本篇】随机事件「锻炼」

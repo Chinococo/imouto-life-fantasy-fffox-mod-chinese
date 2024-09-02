@@ -1,3 +1,3 @@
-\my[-2]\f[14]"The Guild has received reports of a new
-layer discovered in the ancient ruins."
-"This will be a very dangerous mission."
+\f[16]「据说公会报告说在古老的遗迹中
+　发现了未发现的层。」
+「这是一项非常危险的任务。」

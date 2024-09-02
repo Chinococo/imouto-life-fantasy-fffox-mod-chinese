@@ -1,3 +1,2 @@
-\my[-2]\f[14]In a frontier village on the eastern edge
-of the Kingdom.
-Alone in the inn, I suddenly think of my hometown.
+\f[16]王国东端，イールズ地区的开拓村。
+在旅馆里一个人突然对故乡产生了思念之情。

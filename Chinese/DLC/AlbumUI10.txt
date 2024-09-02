@@ -1,4 +1,3 @@
-\my[-2]\f[14]The guild overcame their problems with a new menu.
-"Next is delivery! We'll take control
- the whole village's food supplyー"
-"...How is this being an adventurer?"
+\f[16]新菜单开发跨越了公会存亡的危机。
+「接下来是外卖事业！会支配全村的饮食。」
+「…冒险者是？」

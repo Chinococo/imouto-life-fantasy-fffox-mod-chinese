@@ -1,4 +1,3 @@
-\my[-2]\f[14]"An adventurer is someone who builds their
-foundation in their community."
-"...In other words, a volunteer?"
-"I'd say more of a jack-of-all-trades..."
+\f[16]「扎根于地区的冒险者啊。」
+「…也就是说，志愿者？」
+「不管怎么说更像是万事屋…。」

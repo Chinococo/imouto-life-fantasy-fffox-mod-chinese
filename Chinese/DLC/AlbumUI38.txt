@@ -1,4 +1,3 @@
-\my[-2]\f[14]"My sister's health is not good..."
-She often fails ill after going out for just
-a short time.
-[Main] Vomiting Blood Ending
+\f[16]「妹妹身体很虚弱…」
+只是稍微在外面走一会就睡觉的情况也经常发生。
+【本篇】吐血END

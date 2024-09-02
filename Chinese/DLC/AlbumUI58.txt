@@ -1,4 +1,3 @@
-\my[-2]\f[14]A childhood friend and medic from Mequa.
-She is devoted, but dangerously ignores
-her own self-care.
-[Album]
+\f[16]在メクア长大的青梅竹马医生少女。
+虽然很有献身精神但也有疏忽的危险部分。
+【相册】

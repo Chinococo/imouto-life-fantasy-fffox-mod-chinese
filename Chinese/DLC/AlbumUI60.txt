@@ -1,4 +1,3 @@
-\my[-2]\f[14]She falls and sprains her ankle while running.
-I explain that teammates are there to support
-each other.
-[Main]
+\f[16]跑步时摔倒扭伤了。
+解释说朋友之间应该互相支持。
+【本篇】

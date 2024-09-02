@@ -1,4 +1,3 @@
-\my[-2]\f[14]Adventurer's Guide:
-Be aware of the flow of combat.
-"Don't just swing your weapon wildly."
-"Be aware of the next step when attacking."
+\f[16]冒险者的心得　攻击时注意方式
+「不要随意挥舞武器。」
+「在攻击时注意下一个动作的连接。」
