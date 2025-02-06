@@ -1,12 +1,6 @@
-\>\f[14]\ECredits to those who have helped:
--Shadesishere: Original translator of the game.
--mello.second: Decensor redrawer of the game.
--Akapp: Awesome volunteer artist (see his folder 'akapp').
--daseson: Great artist, motivator, and quality checker. Mod Author of the Color Mod.
-　
-向提供帮助者表示致谢：
--Shadesishere：游戏的原始翻译者。
--mello.second：游戏的无修正图片重绘者。
--Akapp：出色的志愿画师（可参见“akapp”文件夹）。
--daseson：伟大的画师、激励者和mod测试员。彩色mod的作者。
-　
+\>\f[14]\E特別感謝以下協助者：
+Shadesishere：遊戲的原始翻譯者。
+mello.second：遊戲的去碼重繪者。
+Akapp：優秀的志願畫師（請參閱「akapp」資料夾）。
+daseson：出色的畫師、激勵者與品質檢查員，同時也是「Color Mod」的模組作者。
+ISUKAxABA：另一位優秀的志願畫師（請參閱「ISUKAxABA」資料夾）。

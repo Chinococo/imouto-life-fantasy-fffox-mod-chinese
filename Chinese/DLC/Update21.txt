@@ -1,3 +1,2 @@
 \>\f[14]\EVer2.0.1 2024.6.20
-Correction of typos and minor bugs
-　
+修正錯字與小型錯誤
